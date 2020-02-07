@@ -1,0 +1,90 @@
+body {
+    background: #151525;
+    margin: 0;
+    padding: 0;
+  }
+  
+.loader{
+  height: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.loader .absoluteCenter span {
+  height: 15px;
+  width: 15px;  
+  display: inline-block;
+  border-radius: 50%;
+  transition: all .5s;
+  animation: pula 2s infinite
+}
+.absoluteCenter {
+  top: 30%;
+  margin-left: 20px;
+}
+
+.loader .absoluteCenter span:nth-child(1) {
+  animation-delay: 0;
+}.loader .absoluteCenter span:nth-child(2) {
+  animation-delay: 0.1s;
+}.loader .absoluteCenter span:nth-child(3) {
+  animation-delay: 0.2s;
+}.loader .absoluteCenter span:nth-child(4) {
+  animation-delay: 0.3s;
+}.loader .absoluteCenter span:nth-child(5) {
+  animation-delay: 0.4s;
+}.loader .absoluteCenter span:nth-child(6) {
+  animation-delay: 0.5s;
+}.loader .absoluteCenter span:nth-child(7) {
+  animation-delay: 0.6s;
+}.loader .absoluteCenter span:nth-child(8) {
+  animation-delay: 0.7s;
+}.loader .absoluteCenter span:nth-child(9) {
+  animation-delay: 0.8s;
+}.loader .absoluteCenter span:nth-child(10) {
+  animation-delay: 0.9s;
+}
+
+.loader h1 {
+  font-family: verdana;
+  color: #a9518f;
+  margin: 0;
+  padding: 0; 
+}
+
+@keyframes pula {
+  0% {
+    border: 1px solid #3cacac;
+    background: #43c2c2;
+    transform: translateY(0);
+  }
+  50% {
+    border: 1px solid rgb(224, 15, 40);
+    background: #F2122D;
+    transform: translateY(-25px);
+  }
+  100% {
+    border: 1px solid #a9518f;
+    background: #ED84FC;
+    transform: translateY(0);
+  }  
+}
+a {
+  color: #C1A8FA;
+  text-decoration: none;
+} a:hover {
+  color: rgb(113, 70, 168);
+}
+footer {
+  font-family: verdana;
+  text-align: end;
+  background: black;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
