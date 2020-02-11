@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #edff57; 
+  font-family: tahoma;
+}
+
+.skewedBox{
+  background: #0A5373;
+  padding: 100px 0;
+  transform: skew(0deg, -10deg) translateY(-120px);
+  color: #edff57;
+}
+.container {
+  padding: 150px 200px;
+  transform: skew(0deg, 10deg);
+ 
+}
+.container h1{
+  margin: 0;
+  padding: 20px 0;
+  font-size: 4.5em;
+}
+.container  p{
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5em;
+  width: 80%; 
+}
+
+.sec2{
+  padding: 0 100px 150px;
+  color: #0A5373;
+}
+.sec2 h1{
+  margin: 0;
+  padding: 20px 0;
+  font-size: 5em;
+  text-align: right; 
+}
+.sec2  p{
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5em;
+  width: 80%;
+}
+a {
+  color: #C1A8FA;
+  text-decoration: none;
+} a:hover {
+  color: rgb(113, 70, 168);
+}
+footer {
+    font-family: verdana;
+    text-align: end;
+    background: black;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}

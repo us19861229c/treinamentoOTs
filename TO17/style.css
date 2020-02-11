@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  animation: mudar infinite 20s;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  font-family: verdana;
+  font-size: 5em;
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+@keyframes mudar{
+  0%{
+    background:#8BF176;  
+  }
+  20%{
+    background:#76F1C2;  
+  }
+  40%{
+    background:#76B0F1;  
+  }
+  60%{
+    background:#8C76F1;  
+  }
+  80%{
+    background:#DD76F1;  
+  }
+  100%{
+    background:#F17698;  
+  }
+}
+a {
+  color: #C1A8FA;
+  text-decoration: none;
+} a:hover {
+  color: rgb(113, 70, 168);
+}
+footer {
+    font-family: verdana;
+    text-align: end;
+    background: black;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
