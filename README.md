@@ -27,3 +27,7 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  16. TO_16 - [3D Hover Effect - Html5 Css3 Tutorial - Pure Css3 Hover Effects](https://codepen.io/rcks29c/full/wvaaROm)
  17. TO_17 - [Changing background color - html css tutorial](https://codepen.io/rcks29c/full/oNXXmyG)
  18. TO_18 - [CSS Skewed Background Tutorial - pure css tutorial](https://codepen.io/rcks29c/full/bGddZdb)
+ 19. TO_19 - [How to create Div Pointer - pure html css tutorial ](https://codepen.io/rcks29c/full/LYVVoxx)
+ 20. TO_20 - [Make 3D Div With Pointer Using Html Css](https://codepen.io/rcks29c/full/yLNYXXa)
+ 21. TO_21 - [How To Make Custom Box Shadow - Css Quick Tutorial](https://codepen.io/rcks29c/full/abOvVXK)
+ 22. TO_22 - [Create Hexagon Using Css - html css tutorial](https://codepen.io/rcks29c/full/GRJpyjp)
