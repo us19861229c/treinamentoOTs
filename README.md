@@ -31,3 +31,7 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  20. TO_20 - [Make 3D Div With Pointer Using Html Css](https://codepen.io/rcks29c/full/yLNYXXa)
  21. TO_21 - [How To Make Custom Box Shadow - Css Quick Tutorial](https://codepen.io/rcks29c/full/abOvVXK)
  22. TO_22 - [Create Hexagon Using Css - html css tutorial](https://codepen.io/rcks29c/full/GRJpyjp)
+ 23. TO_23 - [How To Blur Text / Image - Pure CSS Tutorial](https://codepen.io/rcks29c/full/gOpPawQ)
+ 24. TO_24 - [How to create animated css heart - css quick shape tutorial ](https://codepen.io/rcks29c/full/wvaMMwK)
+ 25. TO_25 - [Css Loading Animation - Fade in fade out text css animation](https://codepen.io/rcks29c/full/yLNeeaz)
+ 
