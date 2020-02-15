@@ -34,4 +34,6 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  23. TO_23 - [How To Blur Text / Image - Pure CSS Tutorial](https://codepen.io/rcks29c/full/gOpPawQ)
  24. TO_24 - [How to create animated css heart - css quick shape tutorial ](https://codepen.io/rcks29c/full/wvaMMwK)
  25. TO_25 - [Css Loading Animation - Fade in fade out text css animation](https://codepen.io/rcks29c/full/yLNeeaz)
- 
+ 26. TO_26 - [Image Zoom Effect - css3 html tutorial - Easy Css3 html Tutorial](https://codepen.io/rcks29c/full/abOdGvG)
+ 27. TO_27 - [Latest css animation effects 2017 - Pure Css Tutorials](https://codepen.io/rcks29c/full/zYGrjNj)
+ 28. TO_28 - [Latest css animation effects 2017(2)](https://codepen.io/rcks29c/full/dyoMGax)
