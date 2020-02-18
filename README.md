@@ -37,3 +37,8 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  26. TO_26 - [Image Zoom Effect - css3 html tutorial - Easy Css3 html Tutorial](https://codepen.io/rcks29c/full/abOdGvG)
  27. TO_27 - [Latest css animation effects 2017 - Pure Css Tutorials](https://codepen.io/rcks29c/full/zYGrjNj)
  28. TO_28 - [Latest css animation effects 2017(2)](https://codepen.io/rcks29c/full/dyoMGax)
+ 29. TO_29 - [Css 3D Text Jumping Animation - Latest Css Animation Effect 2017](https://codepen.io/rcks29c/full/yLNOGPb)
+ 30. TO_30 - [Create Animated Tea Cup - Pure Css Shape - Tutorial](https://codepen.io/rcks29c/full/RwPavrW)
+ 31. TO_31 - [CSS Skewed Background Tutorial - 2 - pure css tutorials](https://codepen.io/rcks29c/full/KKpMvKw)
+ 32. TO_32 - [css isometric text - pure css tutorial](https://codepen.io/rcks29c/full/yLNJoLY)
+ 33. To_33 - [CSS Animated Button - Tutorial - CSS HOVER EFFECT](https://codepen.io/rcks29c/full/WNvxZbp)

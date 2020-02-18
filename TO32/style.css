@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #85C1E9;
+}
+.isometric {
+  width: 500px;
+  padding: 20px;
+  box-sizing: border-box;
+  background: #AED6F1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-30deg) skew(30deg, 0deg);
+  border: 1px solid rgba(0, 0, 0, .2)
+}
+.isometric p {
+  color: #C0392B;
+  font-size: 20px;
+  font-family: verdana;
+  text-align: justify;
+}
+.isometric h1 {
+  position: relative;
+  color: #922B21;
+  font-size: 40px;
+  font-family: verdana;
+  text-align: justify;
+  transform-origin: bottom;
+  transform: skew(-60deg);
+  text-shadow: -1px -1px 0 #ccc, -2px -2px 0 #ccc, -3px -3px 0 #ccc;  
+}
+
+.isometric h1:before {
+  content: "O SANTO E A PORCA";
+  position: absolute;
+  color: rgba(146, 43, 33, .2 );
+  font-size: 40px;
+  font-family: verdana;
+  text-align: justify;
+  transform-origin: bottom;
+  transform: skew(50deg) rotateX(180deg);
+  text-shadow: none;
+  top:  -18px;
+  left: -9px;
+}
+a {
+  color: rgb(56, 46, 77);
+  text-decoration: none;
+} a:hover {
+  color: rgb(113, 70, 168);
+}
+footer {
+    font-family: verdana;
+    text-align: end;
+    background: black;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: .8em;
+}
