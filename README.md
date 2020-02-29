@@ -41,4 +41,7 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  30. TO_30 - [Create Animated Tea Cup - Pure Css Shape - Tutorial](https://codepen.io/rcks29c/full/RwPavrW)
  31. TO_31 - [CSS Skewed Background Tutorial - 2 - pure css tutorials](https://codepen.io/rcks29c/full/KKpMvKw)
  32. TO_32 - [css isometric text - pure css tutorial](https://codepen.io/rcks29c/full/yLNJoLY)
- 33. To_33 - [CSS Animated Button - Tutorial - CSS HOVER EFFECT](https://codepen.io/rcks29c/full/WNvxZbp)
+ 33. TO_33 - [CSS Animated Button - Tutorial - CSS HOVER EFFECT](https://codepen.io/rcks29c/full/WNvxZbp)
+ 34. TO_34 - [Skewed Background Using Border - Html5 Css3 Tutorial](https://codepen.io/rcks29c/full/MWweNoj)
+ 35. TO_35 - [Css Image Hover Effect - Pure css Tutorial - Html5 css3](https://codepen.io/rcks29c/full/YzXWmRB)
+ 36. TO_36 - [Sliding Ball Insibe Box - Latest Css Animation Tutorial](https://codepen.io/rcks29c/full/dyoRXja)
