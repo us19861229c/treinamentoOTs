@@ -45,3 +45,6 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  34. TO_34 - [Skewed Background Using Border - Html5 Css3 Tutorial](https://codepen.io/rcks29c/full/MWweNoj)
  35. TO_35 - [Css Image Hover Effect - Pure css Tutorial - Html5 css3](https://codepen.io/rcks29c/full/YzXWmRB)
  36. TO_36 - [Sliding Ball Insibe Box - Latest Css Animation Tutorial](https://codepen.io/rcks29c/full/dyoRXja)
+ 37. TO_37 - [Clip Masking In CSS - Text Clipping Mask Tutorial](https://codepen.io/rcks29c/full/OJVgqaJ)
+ 38. TO_38 - [Create Arrow with css - Html Css Tutorial](https://codepen.io/rcks29c/full/eYNRoOy)
+ 39. TO_39 - [Css3 3d menu hover effect - 3d Flip on Hover Css tutorial]()
