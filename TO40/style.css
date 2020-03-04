@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+a{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 15px 0;
+  font-size: 24px;
+  font-family: tahoma;
+  text-decoration: none;
+  color: #C80038;
+  border-top: 2px solid #C80038;
+  border-bottom: 2px solid #C80038;
+  letter-spacing: 2px;
+  transition: .3s cubic-bezier(.17, .67, .09, 1.91);
+}
+a:hover{
+  letter-spacing: 22px;
+}
