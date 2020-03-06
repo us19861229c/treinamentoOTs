@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #E09CBE;
+  
+}
+h1 {
+  text-align: center;
+  margin-top: 150px;
+  font-family: "Arial Black";
+  font-size: 11em;
+  line-height: 1em;
+  text-transform: uppercase;
+  background: url(https://images.unsplash.com/photo-1499195333224-3ce974eecb47?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=648&q=80);    
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: carrossel 15s infinite;
+
+}
+@keyframes carrossel {
+  0%{
+    background-position: 0 0
+  }
+  50%{
+    background-position: 100% 100%
+  }
+  100%{
+    background-position: 0 0
+  }
+}

@@ -52,3 +52,12 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  41. TO_41 - [Css hover effect tutorial - strtchable text hover effect](https://codepen.io/rcks29c/full/zYGdzGK)
  42. TO_42 - [Pure Css Snow Fall Animation - No Javascript ](https://codepen.io/rcks29c/full/abOywNJ)
  43. TO_43 - [CSS3 Bouncing Ball Animation - How To Make Ball Bounce](https://codepen.io/rcks29c/full/poJrwKb)
+ 44. TO_44 - [Css Loading Animation using Box-Shadow](https://codepen.io/rcks29c/full/GRJMXJe)
+ 45. TO_45 - [Css Multicolored Animated Text - Liquid Fill Text Transition](https://codepen.io/rcks29c/full/dyoVqgL)
+ 46. TO_46 - [Css 3d Flip Button Hover Effect - Pure Css Tutorial](https://codepen.io/rcks29c/full/xxGXydo)
+ 47. TO_47 - [Animated Text Background](https://codepen.io/rcks29c/full/jOPGeXe)
+ 48. TO_48 - [CSS Paper Cut Text Effect - Pure Css Tutorial - Css3 Skewed Text](https://codepen.io/rcks29c/full/bGdYEOe)
+ 49. TO_49 - [CSS 3D Floating Text - CSS 3D TEXT SHADOW - Pure CSS Tutorial](https://codepen.io/rcks29c/full/JjdOGqw)
+ 50. TO_50 - [image hover effect css3 - AMAZING Animated Image Hover Effects](https://codepen.io/rcks29c/full/dyoZMdo)
+ 51. TO_51 - [css loading animation - floating text loading effect](https://codepen.io/rcks29c/full/gOpXrzm)
+ 

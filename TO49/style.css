@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #93beff;
+  overflow: hidden;
+}
+h1 {
+  text-align: center;
+  margin: 150px;
+  font-family: verdana;
+  font-size: 10em;
+  line-height: 1em;
+  color: #fff;
+  text-shadow: 0 1px 0 #efefef,
+               0 2px 0 #efefef,
+               0 3px 0 #efefef,
+               0 4px 0 #efefef,
+               0 30px 5px rgba(0, 0, 0, .1);
+  animation: mexe 5s infinite linear;
+}
+
+@keyframes mexe {
+  0%{
+    transform: rotate(5deg)
+  }
+  25%{
+    transform: rotate(0deg)
+  }
+  50%{
+    transform: rotate(-5deg)
+  }
+  75%{
+    transform: rotate(0deg)
+  }
+  100%{
+    transform: rotate(5deg)
+  }
+}
