@@ -60,4 +60,8 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  49. TO_49 - [CSS 3D Floating Text - CSS 3D TEXT SHADOW - Pure CSS Tutorial](https://codepen.io/rcks29c/full/JjdOGqw)
  50. TO_50 - [image hover effect css3 - AMAZING Animated Image Hover Effects](https://codepen.io/rcks29c/full/dyoZMdo)
  51. TO_51 - [css loading animation - floating text loading effect](https://codepen.io/rcks29c/full/gOpXrzm)
+ 52. TO_52 - [Paper Cut Out Letters - Awesome Html Css 3D Hover Effect Tutorial](https://codepen.io/rcks29c/full/poJpqgz)
+ 53. TO_53 - [Create CSS Buttons With Hover Effect - Html5 Css3 Tutorial](https://codepen.io/rcks29c/full/rNVpoPw)
+ 54. TO_54 - [Hero Image Zoom On Scroll - Very Simple jQuery Tutorial - Css Image Effect](https://codepen.io/rcks29c/full/YzXYBdP)
+ 55. TO_55 - [Css Creative Button Design - Html Css Cool Hover Effect Tutorial](https://codepen.io/rcks29c/full/PoqELVR)
  
