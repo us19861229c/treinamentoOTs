@@ -64,4 +64,7 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  53. TO_53 - [Create CSS Buttons With Hover Effect - Html5 Css3 Tutorial](https://codepen.io/rcks29c/full/rNVpoPw)
  54. TO_54 - [Hero Image Zoom On Scroll - Very Simple jQuery Tutorial - Css Image Effect](https://codepen.io/rcks29c/full/YzXYBdP)
  55. TO_55 - [Css Creative Button Design - Html Css Cool Hover Effect Tutorial](https://codepen.io/rcks29c/full/PoqELVR)
- 
+ 56. TO_56 - [Line Loading Animation - Pure Css Animation Effect - Html5 Css3](https://codepen.io/rcks29c/full/eYNVyXB)
+ 57. TO_57 - [Changing Letter Animation - Pure Css Text Rotator - No Javascript](https://codepen.io/rcks29c/full/yLNvveV)
+ 58. TO_58 - [How To Change Text Selection Color - Tutorials For Beginners](https://codepen.io/rcks29c/full/VwLQQmq)
+ 59. TO_59 - [Animated Image Hover Effects with Captions - Text Overlay Css Hover Effect](https://codepen.io/rcks29c/full/PoqQQaP)

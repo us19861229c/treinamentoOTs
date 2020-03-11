@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: tahoma;
+}
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+h1::selection {
+  background:#f00;
+  color: yellow;
+}
+p::selection {
+  background: #262626;
+  color: white;
+}
