@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background: url(https://images.unsplash.com/photo-1516642898673-edd1ced08e87?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+  background-size: cover;
+  height: 650px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.container img {
+  width: 100%;
+  filter: drop-shadow(16px 16px 20px #C20C33)
+}
+.container .cloud1 {
+  position: absolute;
+  top: 60px;
+  animation: nuvem1 25s infinite linear;
+}
+.container .cloud2 {
+  position: absolute;
+  top: -50px;
+  animation: nuvem2 35s infinite linear;
+}
+.container .cloud3 {
+  position: absolute;
+  top: 100px;
+  animation: nuvem3 15s infinite linear;
+}
+.container .cloud4 {
+  position: absolute;
+  top: 70px;
+  animation: nuvem4 60s infinite linear;
+}
+
+@keyframes nuvem1 {
+  0% {
+    transform: translateX(-100%)
+  }
+  100% {
+    transform: translateX(100%)
+  }
+}
+@keyframes nuvem2 {
+  0% {
+    transform: translateX(-100%)
+  }
+  100% {
+    transform: translateX(100%)
+  }
+}
+@keyframes nuvem3 {
+  0% {
+    transform: translateX(-100%)
+  }
+  100% {
+    transform: translateX(100%)
+  }
+}
+@keyframes nuvem4 {
+  0% {
+    transform: translateX(-100%)
+  }
+  100% {
+    transform: translateX(100%)
+  }
+}
