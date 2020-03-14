@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #262626;
+  font-family: verdana;
+}
+.center {
+  position: absolute;
+  top: 50%;
+  left: 44%;
+}
+a {
+  text-decoration: none;
+  color: #262626;
+  background: #fff900;
+  padding: 10px 15px 10px 25px;
+  font-weight: bold;
+  border: 1px solid rgba(0, 0, 0, .2);
+  border-radius: 3px;
+  transition: .2s;
+}
+a:after {
+  content: "♥►";
+  position: relative;
+  left: -20px;
+  opacity: 0;
+  transition: .2s;
+}
+a:hover:after {
+  left: 10px;
+  opacity: 1;
+}
+a:hover {
+  padding: 10px 30px 10px 25px;
+}

@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #65041B;
+  font-family: sans-serif;
+}
+.container {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: transparent;
+  border: 10px solid transparent;
+  box-sizing: border-box;
+  transition: .5s;
+  box-shadow: none;  
+}
+.shape {
+  background: #fff;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  transform: rotate(45deg) scale(1.2);
+  border: 10px solid #CB4E6C;
+  border-radius: 50%;
+  transition: .5s;
+  box-shadow: 0 0 15px rgba(0, 0, 0, .5);
+}
+.shape p {
+  margin: 0;
+  padding: 25px;
+  text-align: center;
+  box-sizing: border-box;
+  transform: rotate(-45deg) translate( -10%, 20%);
+  font-size: 15px;
+  border-radius: 50%;
+}
+.shape h1 {
+  margin: 0;
+  padding: 0;
+  color: #771129;
+  font-family: serif;
+  font-size: 3.5rem;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px #000;
+  text-align: center;
+  box-sizing: border-box;
+  transform: rotate(-45deg) translate( -35%, 20%);
+  font-size: 15px;
+  border-radius: 50%;
+}
+.container:before {
+  content:"";
+  position: absolute;
+  width: 24px;
+  height: 90%;
+  background: #9A1031;  
+  left: 50px;
+  transition: .5s;
+  top: 5%;
+  opacity: 1;
+  animation-delay: .3s;
+  z-index: -1
+}
+.container:after {
+  content:"";
+  position: absolute;
+  width: 24px;
+  height: 90%;
+  background: #9A1031;  
+  right: 50px;
+  transition: .5s;
+  top:5%;
+  opacity: 1;
+  animation-delay: .3s;
+  z-index: -1;
+}
+.container:hover:before {
+  left: -34px;
+  opacity: 1;
+}
+.container:hover:after {
+  right: -34px;
+  opacity: 1;
+}
+.container:hover .shape {
+  border-radius: 0;
+}
+.container:hover {
+  background: #fff;
+  border: 10px solid #CF3056;
+  box-shadow: 0 0 15px rgba(0, 0, 0, .5)
+}
+p:first-letter {
+  color: #771129;
+  font-family: serif;
+  font-size: 3.5rem;
+  float: left;
+  margin: 0px 8px 0px 4px;
+  font-weight: bold;
+  line-height: 1;
+  text-shadow: 2px 2px 4px #000;
+}

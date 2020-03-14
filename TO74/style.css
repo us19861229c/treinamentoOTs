@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #262626;
+}
+ul {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+ul li {
+  list-style: none;
+  font-family: tahoma;
+  font-size: 5em;
+  letter-spacing: 15px;
+  color: #484848;
+  text-shadow: none;
+  animation: ilumina 1.5s infinite linear;
+}
+@keyframes ilumina {
+  0% {
+    color: #484848;
+    text-shadow: none;
+  }
+  18% {
+    color: #484848;
+    text-shadow: none;
+  }
+  20% {
+    color: #fff900;
+    text-shadow: 0 0 7px #fff900,
+                 0 0 20px #ffbc00;
+  }
+  30% {
+    color: #484848;
+    text-shadow: none;
+  }
+  38% {
+    color: #fff900;
+    text-shadow: 0 0 7px #fff900,
+                 0 0 20px #ffbc00;
+  }
+  70% {
+    color: #484848;
+    text-shadow: none;
+  }
+  85% {
+    color: #fff900;
+    text-shadow: 0 0 7px #fff900,
+                 0 0 20px #ffbc00;
+  }
+  90% {
+    color: #484848;
+    text-shadow: none;
+  }
+  100% {
+    color: #fff900;
+    text-shadow: 0 0 7px #fff900,
+                 0 0 20px #ffbc00;
+  }
+  
+}
