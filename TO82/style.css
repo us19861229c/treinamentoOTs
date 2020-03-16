@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: verdana;
+  background: #3D5B90;
+}
+ul {
+  margin: 300px auto;
+  width: 50%;
+}
+ul li {
+  list-style: none;
+  float: left;
+  width: 33.3%;
+}
+ul li i {
+  color: #30A76A;
+}
+ul li i.fas {
+  font-size: 4em;
+  transition: .5s;
+}
+ul li div.text {
+  opacity: 0;
+  color: #30A76A;
+  font-size: 2em;
+  transition: .5s;
+  transform: translateY(20px);
+}
+ul li:hover .fas {
+  transform: translateY(-20px) scale(.8)
+}
+ul li:hover div.text {
+  opacity: 1;
+  transform: translateY(-20px);
+}

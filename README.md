@@ -85,4 +85,10 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  74. TO_74 - [Cool Css Glowing Text Animation Tutorial - Html Css Blinking Text Effect](https://codepen.io/rcks29c/full/rNVdPMj)
  75. TO_75 - [Css3 Tilt Image Animation - Pure Css Tutorial - Html Css Effect](https://codepen.io/rcks29c/full/oNXqmWd)
  76. TO_76 - [Css Div Hover Effect Tutorial - html5 Css3 Hover Effect](https://codepen.io/rcks29c/full/BaNrMXj)
- 77. TO_77 - [CSS Icon Hover Effect - How to add social media icons using font awesome](https://codepen.io/rcks29c/pen/yLNKmOZ)
+ 77. TO_77 - [CSS Icon Hover Effect - How to add social media icons using font awesome](https://codepen.io/rcks29c/full/yLNKmOZ)*
+ 78. TO_78 - [How to add social media icons using font awesome - NO IMAGES](https://codepen.io/rcks29c/full/xxGjpmO)
+ 79. TO_79 - [Create CSS Icon With Font Awesome - No images - Animated Social Icon - Css Hover Effects](https://codepen.io/rcks29c/full/RwPyQRJ)
+ 80. TO_80 - [how to create css Icon Hover Effect - Font Awesome icon](https://codepen.io/rcks29c/full/WNvJMBr)
+ 81. TO_81 - [Simple Parallax Scrolling Effect Tutorial - Html Css Parallax](https://codepen.io/rcks29c/full/VwLxxaa) *
+ 82. TO_82 - [Icon Slide Hover Effect - Simple Css Hover Effect Tutorial](https://codepen.io/rcks29c/full/RwPyBPm)
+ 83. TO_83 - [Css Scroll Down Animation - Pure Css3 Effect - Font Awesome Icon](https://codepen.io/rcks29c/full/VwLxBJL)

@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+}
+.container {
+  margin: 250px auto;
+  width: 500px;
+}
+.container .icon {
+  position: relative;
+  margin: 10px;
+  display: inline-block;
+  float: left;
+  width: 75px;
+  height: 75px;
+  font-size: 30px;
+  border-radius: 15px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, .2), 
+              -1px 0px 2px rgba(0, 0, 0, .2);
+   overflow: hidden;
+}
+.container .icon .fab {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1) rotate(0deg);
+  transition: all .5s ease-in-out;
+}
+.container .icon:hover .fab {
+  transform: translate(-50%, -50%)scale(1.4) rotate(360deg);
+  color: #fff; 
+}
+
+.react {
+  color: #15AABF;
+}
+.python {
+  color:  #306998;
+}
+.js {
+  color: #F0DB4F;
+}
+.html5 {
+  color: #F16529 ;
+}
+.css3 {
+  color: #264de4;
+}
+.react:before,
+.python:before, .js:before, .html5:before, .css3:before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -100%;
+  transition: all .5s ease-in-out;
+  border-radius: 15px;
+}
+.react:hover:before,
+.python:hover:before, .js:hover:before, .html5:hover:before, .css3:hover:before {
+  left: 0;
+}
+.react:hover:before {
+  background: #15AABF;
+}
+.python:hover:before {
+  background:  #306998;
+}
+.js:hover:before {
+  background: #F0DB4F;
+} 
+.html5:hover:before {
+  background: #F16529;
+} 
+.css3:hover:before {
+  background: #264de4;
+}

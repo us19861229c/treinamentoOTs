@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #262626;
+}
+.circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 110px;
+  font-size: 60px;
+  overflow: hidden;
+}
+.circle .fas {
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  animation: de 1s infinite linear;
+}
+@keyframes de {
+  0%{
+    transform: translateY(-50px);
+    text-shadow: 0 50px 0 #fff;
+  }
+  20%{
+    transform: translateY(0px);
+    text-shadow: 0 10px 0 #fff;
+  }
+  40%{
+    transform: translateY(0px);
+    text-shadow: 0 -10px 0 #fff;
+  }
+  60%{
+    transform: translateY(0px);
+    text-shadow: 0 0px 0 #fff;
+  }
+  100%{
+    transform: translateY(100px);
+    text-shadow: 0 -50px 0 #fff;
+  }
+}
+.circle:before {
+  content:"SCROLL DOWN";
+  position: absolute;
+  color: #fff;
+  font-family: tahoma;
+  font-size: 10px;
+  left: 15px;
+  top: -26px;
+}
