@@ -92,3 +92,6 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  81. TO_81 - [Simple Parallax Scrolling Effect Tutorial - Html Css Parallax](https://codepen.io/rcks29c/full/VwLxxaa) *
  82. TO_82 - [Icon Slide Hover Effect - Simple Css Hover Effect Tutorial](https://codepen.io/rcks29c/full/RwPyBPm)
  83. TO_83 - [Css Scroll Down Animation - Pure Css3 Effect - Font Awesome Icon](https://codepen.io/rcks29c/full/VwLxBJL)
+ 84. TO_84 - [Css Falling Surface Loading Page Animation - Pure Css Tutorial](https://codepen.io/rcks29c/full/rNVKLZK)
+ 85. TO_85 - [how to create css Icon Hover Effect 2 - Font Awesome icon](https://codepen.io/rcks29c/full/QWbxEJg)
+ 86. TO_86 - [Pure Css TEXT Effect - Text Shadow - Paper Cut Out Letters](https://codepen.io/rcks29c/full/KKpegBr)

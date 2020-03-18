@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.loader {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(45deg);
+  background: #262626;
+}
+.face {
+  width: 30px;
+  height: 30px;
+  float: left;
+  background: #fff;
+  animation: queda 2s infinite linear;
+}
+@keyframes queda {
+  0% {
+    transform: scale(1) rotateX(0deg);
+  }
+  50% {
+    transform: scale(0) rotateX(360deg);
+  }
+  100% {
+    transform: scale(0) rotateX(0deg);
+  }
+}
+.face:nth-child(1) {
+  animation-delay: 0s;
+}
+.face:nth-child(2) {
+  animation-delay: 0.25s;
+}
+.face:nth-child(3) {
+  animation-delay: 0.5s;
+}
+.face:nth-child(4) {
+  animation-delay: 0.75s;
+}
+.face:nth-child(5) {
+  animation-delay: 1s;
+}
+.face:nth-child(6) {
+  animation-delay: 1.25s;
+}
+.face:nth-child(7) {
+  animation-delay: 1.5s;
+}
+.face:nth-child(8) {
+  animation-delay: 1.75s;
+}
+.face:nth-child(9) {
+  animation-delay: 2s;
+}

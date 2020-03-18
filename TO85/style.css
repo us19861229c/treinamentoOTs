@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #262626;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+ul li {
+  list-style: none;
+  float: left;
+  margin: 10px;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  font-size: 50px;
+  z-index: 1;
+  transform: rotate(45deg);
+}
+ul li:before {
+  content:"";
+  width: 50%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #fff;
+  transition: .5s ease-in-out;
+  z-index: -2;
+}
+ul li:after {
+  content:"";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: #fff;
+  transition: .5s ease-in-out;
+  z-index: -3;
+  opacity: .8;
+}
+ul li:hover:after {
+  top: 0;
+}
+
+ul li .fab {
+  color: #fff;
+  transform: rotate(-45deg);
+  text-shadow: 0 3px 0 rgba(0, 0, 0, 0.5);
+}
+
+ul li:nth-child(1):before {
+  background: #15AABF;
+}
+ul li:nth-child(2):before {
+  background: #306998;
+}
+ul li:nth-child(3):before {
+  background: #F0DB4F;
+}
+ul li:nth-child(4):before {
+  background: #F16529;
+  
+}
+ul li:nth-child(5):before {
+  background: #264de4 ;
+}
+
+ul li:nth-child(1):after {
+  background: rgb(115, 228, 243);
+}
+ul li:nth-child(2):after {
+  background:rgb(247, 228, 107);
+}
+ul li:nth-child(3):after {
+  background: rgb(243, 227, 123);
+}
+ul li:nth-child(4):after {
+  background: rgb(240, 140, 97);
+  
+}
+ul li:nth-child(5):after {
+  background: #5c79ee ;
+}
