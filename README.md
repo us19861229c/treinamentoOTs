@@ -95,3 +95,4 @@ Bom para treinar, estudar, ficar em atividade, praticar, aprender coisas novas.
  84. TO_84 - [Css Falling Surface Loading Page Animation - Pure Css Tutorial](https://codepen.io/rcks29c/full/rNVKLZK)
  85. TO_85 - [how to create css Icon Hover Effect 2 - Font Awesome icon](https://codepen.io/rcks29c/full/QWbxEJg)
  86. TO_86 - [Pure Css TEXT Effect - Text Shadow - Paper Cut Out Letters](https://codepen.io/rcks29c/full/KKpegBr)
+ 87. TO_87 - [Simple jQuery Portfolio Filter - Filterable Portfolio Using jQuery](https://codepen.io/rcks29c/full/JjdBgxP)
